@@ -15,7 +15,7 @@ public class Ejemplaso {
      */
     public static void main(String[] args) {
         int a = 13;
-        System.out.println("Jose tiene 14" + " años");
+        System.out.println("Jose tiene " + a + " años");
     }
     
 }
